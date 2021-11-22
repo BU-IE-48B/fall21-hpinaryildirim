@@ -7,3 +7,8 @@ This is my [Progress Journal website](https://bu-ie-48b.github.io/fall21-hpinary
 
 [Here](files/IE48B-HW1.html) is the Homework1 file.
 [Here](files/IE48B-HW1.ipynb) is the R script. 
+
+## Homework 2
+
+[Here](files/IE48B-HW2.html) is the Homework2 file.
+[Here](files/IE48B-HW2.ipynb) is the notebook. 
