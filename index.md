@@ -18,3 +18,8 @@ This is my [Progress Journal website](https://bu-ie-48b.github.io/fall21-hpinary
 [Here](files/IE48B-HW3.html) is the Homework3 file.
 [Here](files/IE48B-HW3.r) is the R-script. 
 [Here](files/IE48B-HW3-RMD.rmd) is the R-markdown. 
+
+## Homework 3
+
+[Here](files/IE48B-PROJECT_REPORT.pdf) is the Project Report.
+[Here](files/IE48B-PROJECT.r) is the R-script. 
